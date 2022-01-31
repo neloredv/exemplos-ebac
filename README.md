@@ -1,2 +1,2 @@
 # exemplos-ebac
-exemplos de projetos ebac.
+exemplos de projetos-ebac.
